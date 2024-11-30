@@ -1,4 +1,4 @@
-# Tagliatelle
+# TAGLIATELLE
 
 Tagliatelle is a type of pasta known for its flat, ribbon-like shape. It is often used in rich, hearty dishes. Here are a few details about tagliatelle:
 

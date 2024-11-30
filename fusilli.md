@@ -1,4 +1,4 @@
-# Fusilli
+# FUAILLI
 
 Fusilli is a spiral-shaped pasta that captures sauces well in its twists and turns. Here are a few details about fusilli:
 

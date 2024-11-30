@@ -1,4 +1,4 @@
-# Spaghetti
+# SPAGHETTI
 
 Spaghetti is one of the most iconic and widely recognized types of pasta. It is long, thin, and cylindrical in shape. Here are a few details about spaghetti:
 
