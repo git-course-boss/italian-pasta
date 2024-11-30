@@ -1,4 +1,4 @@
-# Orecchiette:
+# ORECCHIETTE
 
 Shape: Small, ear-shaped discs.
 
