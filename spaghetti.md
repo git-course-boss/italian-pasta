@@ -2,7 +2,6 @@
 
 Spaghetti is one of the most iconic and widely recognized types of pasta. It is long, thin, and cylindrical in shape. Here are a few details about spaghetti:
 
-- **Origin**: Italy
 - **Shape**: Long and thin
 - **Typical Dishes**: Spaghetti carbonara, spaghetti Bolognese, spaghetti aglio e olio
 - **Cooking Time**: Typically 8-12 minutes
